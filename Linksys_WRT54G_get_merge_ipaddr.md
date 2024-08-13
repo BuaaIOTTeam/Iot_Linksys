@@ -1,6 +1,5 @@
 # Overview
-Firmware download website: [https://software.cisco.com/download/home/283879340/type/282487380/release/1.2.2.5](https://software.cisco.com/download/home/283879340/type/282487380/release/1.2.2.5)
-[https://software.cisco.com/download/home/283879340/type/282487380/release/1.2.2.8](https://software.cisco.com/download/home/283879340/type/282487380/release/1.2.2.8)
+Product overview https://store.linksys.com/support-product?sku=WRT54G
 
 # Affected version
 Linksys WRT54G Firmware v4.21.5
